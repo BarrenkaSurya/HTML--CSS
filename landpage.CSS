@@ -3,6 +3,15 @@
     margin: 0;
     box-sizing: border-box;
 }
+.heading1{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+
+.heading1 p{
+    height: 30px;
+}
 
 body{
     font-size: 15px;
